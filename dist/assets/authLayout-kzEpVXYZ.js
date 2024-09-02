@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{r as e,o as r,m as a}from"./index-BxNye9P6.js";const n={name:"authLayout"};function s(c,_,p,u,m,f){const o=e("router-view");return r(),a(o)}const l=t(n,[["render",s]]);export{l as default};
